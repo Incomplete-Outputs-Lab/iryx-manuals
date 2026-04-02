@@ -180,7 +180,7 @@ Mixによる制約や各Functionの詳細は、vMix公式の[Shortcut Function R
 本機を使用したことによる本番配信の停止、vMixのフリーズ、接続PCの故障、その他一切の二次的損害について、開発者は責任を負いかねます。  
 重要な現場で使用される際は、必ず事前の検証とバックアップ体制の確保をお願いいたします。
 
-本機の分解、解析、および内蔵ソフトウェアの抽出・転用を禁止します。
+**本機の分解、解析、および内蔵ソフトウェアの抽出・転用、転売・譲渡を固く禁止します。**
 
 ---
 
@@ -199,14 +199,11 @@ Mixによる制約や各Functionの詳細は、vMix公式の[Shortcut Function R
 - Q2. vMixに接続ができません。  
   A2. USBモードの場合、ネットワークアダプタとして認識されているかご確認ください。IPモードの場合はStatus の vMix IP が正しいかを確認してください。
 
-- Q3. Menuを押してもメニューが開きません。  
-  A3. Status 画面であること、Help や License を閉じていること、Transition の全画面設定を閉じていることを確認し、Back で戻ってから試してください。
+- Q3. Mix 2~16で Cut や Custom の種別が変えられません。  
+  A3. Main Mix以外では一部の設定が変更できないようロックを実施しています。
 
-- Q4. 補助Mixで Cut や Custom の種別が変えられません。  
-  A4. 補助Mixでは Cut や Stinger 固定の行があり、画面で薄く表示され操作できません。
-
-- Q5. Menuを含むボタン操作が効かない
-  A5. シャットダウン後もUSBの電源を供給するPCの場合に、稀にファームウェアが応答不能になる場合がございます。電源を抜き差しし、再起動してください。
+- Q4. Menuを含むボタン操作が効かない  
+  A4. シャットダウン後もUSBの電源を供給するPCの場合に、稀にファームウェアが応答不能になる場合がございます。電源を抜き差しし、再起動してください。
 
 ---
 
@@ -215,9 +212,9 @@ Mixによる制約や各Functionの詳細は、vMix公式の[Shortcut Function R
 不具合報告、機能要望、または現場での使用感などのフィードバックを心よりお待ちしております。  
 SNSでの投稿は #Iryx をご利用ください。
 
-* 開発元: [未完成成果物研究所](https://github.com/Incomplete-Outputs-Lab)
-* ソフトウェア: [Flowing](https://github.com/FlowingSPDG)
-* 筐体・回路: [mizuyoukan](https://github.com/mizuyoukanao)
+* 開発元: [未完成成果物研究所](https://incomplete-outputs-lab.github.io)
+* ファームウェア開発: [Flowing](https://github.com/FlowingSPDG)
+* 回路設計・基板筐体制作: [mizuyoukan](https://github.com/mizuyoukanao)
 * Contact: [ruk1ium@gmail.com](mailto:ruk1ium@gmail.com)
 
 ---
