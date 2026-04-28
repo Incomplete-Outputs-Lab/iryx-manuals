@@ -273,9 +273,6 @@ Mixによる制約や各Functionの詳細は、vMix公式の[Shortcut Function R
 - Q3. Mix 2~16で Cut や Custom の種別が変えられません。  
   A3. Main Mix以外では一部の設定が変更できないようロックを実施しています。
 
-- Q4. Menuを含むボタン操作が効かない  
-  A4. シャットダウン後もUSBの電源を供給するPCの場合に、稀にファームウェアが応答不能になる場合がございます。電源を抜き差しし、再起動してください。
-
 ---
 
 <a id="section-8"></a>
@@ -285,7 +282,7 @@ Mixによる制約や各Functionの詳細は、vMix公式の[Shortcut Function R
 不具合報告、機能要望、または現場での使用感などのフィードバックを心よりお待ちしております。  
 SNSでの投稿は #Iryx をご利用ください。
 
-* 開発元: [未完成成果物研究所](https://incomplete-outputs-lab.github.io)
+* 開発元: [未完成成果物研究所](https://mikanseilaboratory.github.io)
 * ファームウェア開発: [Flowing](https://github.com/FlowingSPDG)
 * 回路設計・基板筐体制作: [mizuyoukan](https://github.com/mizuyoukanao)
 * Contact: [ruk1ium@gmail.com](mailto:ruk1ium@gmail.com)
